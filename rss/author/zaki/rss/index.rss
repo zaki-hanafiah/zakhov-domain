@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Zaki Hanafiah - Zakhov's Domain</title><description>Where Insanity Meets Fun</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 12 Oct 2023 15:23:19 GMT</lastBuildDate><atom:link href="http://localhost:2368/author/zaki/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>A NEW JOURNEY BEGINS...</title><description>&lt;p&gt;Hiya! First post after a long hiatus...&lt;/p&gt;
+
+&lt;p&gt;Recently I was surveying my options for a possible change of hosting. Then I figured, why not make the move to VPS (Virtual Private Server)? &lt;/p&gt;
+
+&lt;p&gt;VPS aren't always cheap and easy to configure but DigitalOcean's first tier offering was still cheaper than my&lt;/p&gt;</description><link>http://localhost:2368/a-new-journey-begins/</link><guid isPermaLink="false">b7b650d3-b0e5-4d04-b292-65a1dfc3ec9f</guid><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Sun, 05 Jun 2016 15:27:44 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/DSC00210.JPG" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/DSC00210.JPG" alt="A NEW JOURNEY BEGINS..."&gt;&lt;p&gt;Hiya! First post after a long hiatus...&lt;/p&gt;
+
+&lt;p&gt;Recently I was surveying my options for a possible change of hosting. Then I figured, why not make the move to VPS (Virtual Private Server)? &lt;/p&gt;
+
+&lt;p&gt;VPS aren't always cheap and easy to configure but DigitalOcean's first tier offering was still cheaper than my current Webfaction plan. &lt;/p&gt;
+
+&lt;p&gt;So I decided to breakdown the pros and cons of staying in Webfaction or making the jump to VPS with DigitalOcean.  &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;div class="col-xs-12"&gt;  
+&lt;div class="table-responsive"&gt;  
+  &lt;table class="table table-bordered table-hover"&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Features&lt;/th&gt;
+        &lt;th&gt;Webfaction&lt;/th&gt;
+        &lt;th&gt;DigitalOcean&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Price&lt;/td&gt;
+        &lt;td&gt;$9.50&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;$5.00&lt;/b&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;CPU&lt;/td&gt;
+        &lt;td&gt;Shared CPU at 3.2 Ghz&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;Single Core CPU&lt;/b&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Memory&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;1 GB RAM&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;0.5 GB RAM&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Type&lt;/td&gt;
+        &lt;td&gt;Shared Hosting&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;Virtual Private Server&lt;/b&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Super User (root)&lt;/td&gt;
+        &lt;td&gt;Nope&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;Yep&lt;/b&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;ASEAN Server Region&lt;/td&gt;
+        &lt;td&gt;Singapore&lt;/td&gt;
+        &lt;td&gt;Singapore&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Bandwidth&lt;/td&gt;
+        &lt;td&gt;1 TB&lt;/td&gt;
+        &lt;td&gt;1 TB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Storage&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;100 GB SSD&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;20 GB SSD&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;One-click packages&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;Yes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Yes&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Email Management&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;Yes&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;Nope&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;  
+
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;  &lt;p&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;So to summarize, what I'm currently looking for at this point is a cheaper way to just host my domain and keep the speed and ease of configuration. I also wanted a server as close to my location as possible (ASEAN region) so it was good both had that option.&lt;/p&gt;
+
+&lt;p&gt;Pricing is the most determining criteria here, as I save half of what I currently pay if I go with DigitalOcean but on the flip-side, I'd have to spend a lot more time configuring stuff on the terminal and redeploying my site. &lt;/p&gt;
+
+&lt;p&gt;In the end, I decided to go for DigitalOcean because I'm more of a cheapskate than I am lazy. &lt;br&gt;
+You also get free $5 credit after your first billing.&lt;/p&gt;
+
+&lt;p&gt;Because while Webfaction is great for quick deploying of web apps and CMS, most of my clients prefer to buy their own web hosting nowadays and I've found that my storage on Webfaction was rather underutilized...  &lt;/p&gt;
+
+&lt;p&gt;Number 2, I always wanted superuser access so I could have the ability to run game or VOIP servers, I've tried it on Webfaction but didn't have much success, most probably due to the Share Hosting restrictions.&lt;/p&gt;
+
+&lt;p&gt;On DigitalOcean, it was quick enough to setup, all I had to was sudo apt-get install murmur (Mumble Server), do some config tweaking and I'm up and running! &lt;/p&gt;
+
+&lt;p&gt;The great thing about DigitalOcean's system is that each server you setup (called Droplets) you're allowed to choose the OS you want or the package you want installed with the OS. &lt;/p&gt;
+
+&lt;p&gt;I went with Ubuntu as I found the packages for some of the apps I need are more up to date on the distro.&lt;/p&gt;
+
+&lt;p&gt;What I also considered was the fact that I had a lot of emails that were stored on the Webfaction server, luckily I found a free alternative in Zoho Mail. &lt;/p&gt;
+
+&lt;p&gt;The free Zoho Mail account allows up to 10 users per domain and it also has a neat migration tool. It was a breeze to setup and I managed to keep my emails as it was without added cost.&lt;/p&gt;
+
+&lt;p&gt;I also migrated from Wordpress to Ghost which runs on NodeJS (as you can see), it wasn't smooth sailing but I managed to get everything up and running (with content imported from the old WP site). &lt;/p&gt;
+
+&lt;p&gt;I'm content although I had spend more time than I wanted to in the transition process. Webfaction has served me well and I might go back to them in the future, depending on use-case.&lt;/p&gt;
+
+&lt;p&gt;All in all, I'm glad we live in a world of so many options, I still remember back after the turn of the century when there were only a few viable web hosting options (HostGator or GoDaddy). &lt;/p&gt;
+
+&lt;p&gt;And if you lived through the mid 1990s, you'd know how much of nightmare Angelfire and Geocities were with broken images and Error 404 pages.. &lt;/p&gt;</content:encoded></item><item><title>OCCULUS BOUGHT OVER BY FACEBOOK</title><description>&lt;p&gt;Now here’s a piece of disappointing news. Occulus VR the company behind the Rift, a virtual reality kit has been bought over by Facebook for an estimated $2 billion.&lt;/p&gt;
+
+&lt;p&gt;Full news reported in the link to theverge.com below:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.theverge.com/2014/3/25/5547456/facebook-buying-oculus-for-2-billion"&gt;The Verge: Facebook Buying Occulus for $2bil&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Personally, I’m&lt;/p&gt;</description><link>http://localhost:2368/occulus-bought-over-by-facebook/</link><guid isPermaLink="false">648fb468-cdf3-42b3-8a87-654416c617b3</guid><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Mon, 03 Mar 2014 14:48:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/occulusfb.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/occulusfb.jpg" alt="OCCULUS BOUGHT OVER BY FACEBOOK"&gt;&lt;p&gt;Now here’s a piece of disappointing news. Occulus VR the company behind the Rift, a virtual reality kit has been bought over by Facebook for an estimated $2 billion.&lt;/p&gt;
+
+&lt;p&gt;Full news reported in the link to theverge.com below:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.theverge.com/2014/3/25/5547456/facebook-buying-oculus-for-2-billion"&gt;The Verge: Facebook Buying Occulus for $2bil&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Personally, I’m quite not really down on this and it’s made me feel quite disappointed since the whole project was seen as a community darling. &lt;/p&gt;
+
+&lt;p&gt;I understand that they’ve done nothing wrong legally and maybe in their own minds (ethically). But the bottom line is that, a lot of people that backed them on Kickstarter didn’t envision that by doing so they would be helping a company sell out to a bigger corporation. &lt;/p&gt;
+
+&lt;p&gt;This was supposed to the success story that everyone wanted, the small underdog with the help of Kickstarter and it’s community investment would make it on it’s own without the help of the big players.&lt;/p&gt;
+
+&lt;p&gt;I can say I understand that Occulus VR did this to get more dough behind newer technology and they need more money to hire and purchase new technology to enhance the Rift. &lt;/p&gt;
+
+&lt;p&gt;But the major issue here is that it’s Facebook of all companies that have acquired them. Facebook doesn’t necessarily have any track record of being a grass-roots engineering or technology oriented company, it’s always seen as a Data mining company.&lt;/p&gt;
+
+&lt;p&gt;Here’s where the reality kicks in, Facebook might be willing to help Occulus VR make the Rift a better device, but at what cost? Will they add features or stuff that consumers already hate that’s in Facebook.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/FBVR.jpg" alt="OCCULUS BOUGHT OVER BY FACEBOOK"&gt;
+&lt;em&gt;My god it’s full ads!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The possible scenario of usage is limitless in a VR Kit, it could range from virtual shopping malls to virtual real estate where real-tors can showcase the properties virtually. But on the flipside, will we be bombarded with ads, get annoying messages, or have privacy intrusion yet again? Would we need to link our VR kits to a Facebook account as a requirement?&lt;/p&gt;
+
+&lt;p&gt;All in all, it remains to be seen. But nevertheless, I can say understand both sides of the story,  the backers and the fans’ disappointment in the acquisition and the logic behind the owners’ reason for selling out.&lt;/p&gt;</content:encoded></item><item><title>BACK TO 2007: CAN IT RUN CRYSIS?</title><description>&lt;p&gt;I remember the first time I properly coughed up money that I saved entirely on PC upgrades was back in 2007. That decision was made after I saw videos of Crysis in action, it was like nothing I’ve ever seen before. I remember being impressed with CryEngine’s debut&lt;/p&gt;</description><link>http://localhost:2368/back-to-2007-can-it-run-crysis/</link><guid isPermaLink="false">1c2aa767-3976-490f-9a55-187cf7aa88a2</guid><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Tue, 18 Feb 2014 15:19:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/crysis-featured.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/crysis-featured.jpg" alt="BACK TO 2007: CAN IT RUN CRYSIS?"&gt;&lt;p&gt;I remember the first time I properly coughed up money that I saved entirely on PC upgrades was back in 2007. That decision was made after I saw videos of Crysis in action, it was like nothing I’ve ever seen before. I remember being impressed with CryEngine’s debut with Far Cry but I was literally gobsmacked when I first saw Crysis in video.&lt;/p&gt;
+
+&lt;p&gt;In terms of physics, character models, lighting, texture quality and gameplay concept, the game was one of the pioneers in bringing the FPS genre forward after Half Life 2 did back in 2004. Not only the technology behind the engine, but also the requirements back then were crazy for it’s time. It was essentially a PC game, built for a PC and not watered down for consoles. I’m sure geeks or tech enthusiasts are familiar to the phrase “Can it run Crysis?”, and it was probably the first game to define and pose a question on PC’s being built. Nevertheless, fast forward to the present and as usual, we have the modding the community that keeps great games alive and I had the opportunity and time to sit down and go through some texture upgrades and other visual enhancement mods. Although my hardware now is a lot more beefier than it was back then, Crysis still can make things difficult for my current rig, especially with modded HD textures.&lt;/p&gt;
+
+&lt;p&gt;OLD PC VS NEW PC  &lt;/p&gt;
+
+&lt;div class="table-responsive"&gt;  
+&lt;div class="col-xs-12"&gt;  
+&lt;table class="table table-bordered table-hover"&gt;  
+  &lt;thead&gt;
+    &lt;/thead&gt;&lt;td&gt;Moi PC: 2007&lt;/td&gt;&lt;td&gt; Moi PC: 2014&lt;/td&gt;
+  
+&lt;table class="table table-bordered table-hover"&gt;  
+  &lt;tr&gt;
+    &lt;td&gt;PROCESSOR&lt;/td&gt;&lt;td&gt;AMD Athlon X2 4000 running at 3.2 Ghz&lt;/td&gt;&lt;td&gt;Intel i5 2500k OC'ed to 4.5 Ghz&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tfoot&gt;
+  &lt;tr&gt;
+    &lt;td&gt;RAM&lt;/td&gt;&lt;td&gt;2GB DDR2 RAM&lt;/td&gt;&lt;td&gt;12GB DDR3 RAM&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;tr&gt;  
+&lt;td&gt;GPU&lt;/td&gt;&lt;td&gt;AMD HD 3850 512MB VRAM&lt;/td&gt;&lt;td&gt;AMD HD 7950 3GB VRAM&lt;/td&gt;  
+&lt;/tr&gt;  
+&lt;tr&gt;  
+&lt;td&gt;OPERATING SYSTEM&lt;/td&gt;&lt;td&gt;Windows Vista 32 Bit&lt;/td&gt;&lt;td&gt;Windows 8.1 64 Bit&lt;/td&gt;&lt;/tr&gt;  
+  &lt;/tfoot&gt;
+&lt;/table&gt;  
+&lt;/table&gt;&lt;/div&gt;  
+
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s a screenshot of Crysis in all it’s glory when modded.  &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href="http://localhost:2368/back-to-2007-can-it-run-crysis/#" data-featherlight="http://zakhov.com/content/images/2016/06/crysis-featured-1.jpg"&gt;&lt;img src="http://localhost:2368/content/images/2016/06/crysis-featured-1.jpg" alt="BACK TO 2007: CAN IT RUN CRYSIS?" title=""&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hapy gaming all! 😀&lt;/p&gt;</content:encoded></item><item><title>THE ELDER SCROLLS ONLINE VOICE CAST REVEALED</title><description>&lt;blockquote&gt;
+  &lt;p&gt;We are pleased to announce that a renowned group of actors will be lending their voices to The Elder Scrolls Online. John Cleese, Michael Gambon, Kate Beckinsale, Malcolm McDowell, Lynda Carter, Bill Nighy, and Alfred Molina – and many more – take on the roles of just some of the interesting characters&lt;/p&gt;&lt;/blockquote&gt;</description><link>http://localhost:2368/the-elder-scrolls-online-voice-cast-revealed/</link><guid isPermaLink="false">d9614455-efaf-442b-88c5-7d303e5cd0ce</guid><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Fri, 24 Jan 2014 15:28:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/bethva.png" medium="image"/><content:encoded>&lt;blockquote&gt;
+  &lt;img src="http://localhost:2368/content/images/2016/06/bethva.png" alt="THE ELDER SCROLLS ONLINE VOICE CAST REVEALED"&gt;&lt;p&gt;We are pleased to announce that a renowned group of actors will be lending their voices to The Elder Scrolls Online. John Cleese, Michael Gambon, Kate Beckinsale, Malcolm McDowell, Lynda Carter, Bill Nighy, and Alfred Molina – and many more – take on the roles of just some of the interesting characters you’ll meet while exploring Tamriel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://www.bethblog.com/2014/01/23/the-elder-scrolls-online-voice-cast-revealed/"&gt;BethBlog: Elder Scrolls Online voice cast revealed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;While I’m not exactly especially excited about this game (MMOs makes me (-_-) ), the voice cast unveiled carries some big names and will continue the trend of adding more immersion to the characters in TES. In Oblivion we had Patrick Steward deliver a great performance as Uriel Septim VII, and Skyrim had a great of not well known but great voice actors which made the experience more engaging.&lt;/p&gt;
+
+&lt;p&gt;I’ve signed up as a beta tester for this game and while I’m not convinced about it I’ll still give it a whirl as TES fan. I’m not sure if they’ll be NDAs or whatnot, so I may or may not be able to post impressions.&lt;/p&gt;</content:encoded></item><item><title>WEB DEVELOPMENT’S EVOLUTION</title><description>&lt;p&gt;Just read another interesting article that I thought should be shared here.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://http://www.huffingtonpost.com/himanshu-sareen/web-development-will-evolve_b_4537747.html"&gt;Huffington Post - Web Development Will Evolve&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We all know the drill now, smartphones are becoming more and more mainstream and the number of users viewing or making use of online systems on mobile is ever increasing. The&lt;/p&gt;</description><link>http://localhost:2368/web-developments-evolution/</link><guid isPermaLink="false">687c3e29-806e-4b9c-a880-372c939a2728</guid><category>Web Programming</category><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Thu, 09 Jan 2014 10:05:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/www.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/www.png" alt="WEB DEVELOPMENT’S EVOLUTION"&gt;&lt;p&gt;Just read another interesting article that I thought should be shared here.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://http://www.huffingtonpost.com/himanshu-sareen/web-development-will-evolve_b_4537747.html"&gt;Huffington Post - Web Development Will Evolve&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We all know the drill now, smartphones are becoming more and more mainstream and the number of users viewing or making use of online systems on mobile is ever increasing. The article does make a good point about this being the Post-PC generation. Although the semantics of the title could be debatable there is a deeper meaning to it. As more and more web designers or those involved in web development get their heads around designing primarily mobile driven websites, the main devices used to quickly surf the web will be tablets and phones.&lt;/p&gt;
+
+&lt;p&gt;Personally, making use of stuff like the Responsive Web Design (RWD) is good for us website builders as we get to expand our target viewers to different platforms and devices. I also expect that we’ll see less use of plugins like Flash and Java runtimes in the future. As developers would be able to transition into using HTML5 features that works out of the box in modern browsers. I’m sure you know that Youtube has done this with a large archive of their videos, moving from flvs to H.264 video codec and the WebM format for HTML5 delivery.&lt;/p&gt;
+
+&lt;p&gt;Another thing that is understated, especially in this country, is UAT or QA site testing. Personally, I’ve never had the opportunity to embark in a large project where user load on the site is paramount, so I can only state my personal experience as a user and through reading similar cases. If you’ve followed the Healthcare.gov debacle in the US, you won’t be surprised to hear that the same issue has been plaguing our local sites for ages now. &lt;/p&gt;
+
+&lt;p&gt;My personal experience with sites like mohe.gov.my ( 10 years ago when I was applying for Uni ) and the current hot topic of the PBS( School-Based Assessment ). The PBS system was widely maligned nationwide by teachers (including my mother who is a teacher), issues like bandwidth outage and confusion on how to use the system (based on their manuals). It worsen to the point that the Director of Education had to put a halt to the system. Long story short, QA is important for Go-Live and heavy user traffic type sites.&lt;/p&gt;
+
+&lt;p&gt;Note to self, consider all the above for future developments. 😉&lt;/p&gt;</content:encoded></item><item><title>EXPECTED WEB DESIGNS IN 2014</title><description>&lt;p&gt;Just finished going through an article at thenextweb.com about designs we’ll expect to see next year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://thenextweb.com/dd/2013/12/29/10-web-design-trends-can-expect-see-2014/3/"&gt;TheNextWeb: Web Designs Trends Can Expect to See in 2014&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of things I’ve already expected. The Flat UI design is gaining steam with it being heavily featured in Microsoft’&lt;/p&gt;</description><link>http://localhost:2368/expected-web-designs-in-2014/</link><guid isPermaLink="false">b72cb6e8-1638-4fdb-858f-ec32443614f1</guid><category>Web Programming</category><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Sun, 29 Dec 2013 10:26:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/web-design.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/web-design.png" alt="EXPECTED WEB DESIGNS IN 2014"&gt;&lt;p&gt;Just finished going through an article at thenextweb.com about designs we’ll expect to see next year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://thenextweb.com/dd/2013/12/29/10-web-design-trends-can-expect-see-2014/3/"&gt;TheNextWeb: Web Designs Trends Can Expect to See in 2014&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of things I’ve already expected. The Flat UI design is gaining steam with it being heavily featured in Microsoft’s Metro UI. Metro is much maligned in the desktop pc region but from my experience, I like the tile design that they used to display information panels on the Windows Phone. My mom uses the Lumia 620 (which was recommended by me) and the design works well with navigation. I think the best compliment the flat UI can get is that Apple’s designer Jony Ive has used it as a theme for his icon design. Basically removing all the emboss and bevel elements on the icons. Heck, it’s even used by FIFA 14 for the menu interface.&lt;/p&gt;
+
+&lt;p&gt;Another thing I expect to gain steam is responsive design, a lot of websites have been catching up in terms of making their designs responsive. Of course, most of our local sites in Malaysia are still lagging but it’s nice to see that responsive design becoming a standard rather than a trend.&lt;/p&gt;
+
+&lt;p&gt;The growth of mobile phones as one of the primary quick “go-to” IT device or gadget is going from strength to strength. I would expect that there will be more applications coming out as the established organizations or companies make use of the current large user base on mobile. It’s never to late to learn, and I hope that my personal knowledge base continues to progress positively in developing on mobile.&lt;/p&gt;
+
+&lt;p&gt;Typography is usually one of my last things to consider in web design(because a bulk of my clients either don’t care or they have their own preference). But going through the article just now I do agree that the use of san-serif fonts are getting stale and repetitive. That’s something to consider when I go for my next web design. Another thing is simplicity, colors will need to be minimized and that trend will continue throughout next year with more sites adopting a “Hero” areas. I’m not sure whether sliders will be phased out in the near time, it’s still a relevant and useful way to convey information in quick succession. I assume that on E-Commerce sites the slider trend will continue but maybe perhaps on corporate and personal sites it will be toned down. But I do positively think that sliders on mobile or small screens, especially the responsive ones don’t quite work as well as scrolling down through hero areas.&lt;/p&gt;
+
+&lt;p&gt;Just a couple of things to consider for next year, it never hurts to stay in the game.&lt;/p&gt;
+
+&lt;p&gt;Cheers.&lt;/p&gt;</content:encoded></item><item><title>DEEPER UNDERSTANDING OF MAGENTO AND ZEND</title><description>&lt;p&gt;I recently stumbled across an article on the web regarding Magento and the supposed relation it has with Zend.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.webguys.de/magento/tuerchen-16-magento-is-not-zend-framework/"&gt;WebGuys: Magento is not a Zend Framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The author of the article mentioned that he was asked in a job interview “What do you know about Magento?” and he answered “Magento&lt;/p&gt;</description><link>http://localhost:2368/deeper-understanding-of-magento-and-zend/</link><guid isPermaLink="false">2971915e-e3d8-48a0-b804-e1f87ed820d1</guid><category>Web Programming</category><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Fri, 20 Dec 2013 10:27:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/zendgento.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/zendgento.png" alt="DEEPER UNDERSTANDING OF MAGENTO AND ZEND"&gt;&lt;p&gt;I recently stumbled across an article on the web regarding Magento and the supposed relation it has with Zend.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.webguys.de/magento/tuerchen-16-magento-is-not-zend-framework/"&gt;WebGuys: Magento is not a Zend Framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The author of the article mentioned that he was asked in a job interview “What do you know about Magento?” and he answered “Magento is an open source e-commerce platform based on Zend Framework.” Wrong answer, he says.&lt;/p&gt;
+
+&lt;p&gt;After reading, it made me think, I’m not well versed with Zend as of now. But based on what I read on Magento’s portal it explains that “Magento is a content management system(CMS)  based on PHP and mySQL for web hosting service, which was built using parts of the Zend Framework“.&lt;/p&gt;
+
+&lt;p&gt;I have to admit I probably would’ve given the same answer(or maybe another deviation that I usually cook up) and end up red faced.&lt;/p&gt;
+
+&lt;p&gt;Take note from now on, Zend Framework is basically a library of classes which enables developers to create high load applications. Although structure-wise similar to Zend, Magento is a complete application that consists of a great number of strongly interconnected core extensions. Read the article linked above for a more in-depth explanation.&lt;/p&gt;
+
+&lt;p&gt;But to sum it up, Magento is not a Zend application, but it was built using Zend Framework components. Of course, if you’re familiar with one or the other it doesn’t hurt to know this small yet important tidbit.&lt;/p&gt;</content:encoded></item><item><title>MOI HUMBLE RIG</title><description>&lt;p&gt;I recently upgraded my PC with another SSD and a pair of RAMs. Until last week I was still using 4GB DDR3 RAMs on my PC. &lt;br&gt;
+Added an extra 8GB DDR3 and at least I can say know that I’m up to date with  most enthusiasts. Somewhat.&lt;/p&gt;
+
+&lt;p&gt;The new&lt;/p&gt;</description><link>http://localhost:2368/moi-humble-rig/</link><guid isPermaLink="false">5be80155-f9a5-4a79-b417-f821ec28a4c8</guid><category>PC Hardware</category><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Mon, 16 Dec 2013 10:28:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/moirig.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/moirig.png" alt="MOI HUMBLE RIG"&gt;&lt;p&gt;I recently upgraded my PC with another SSD and a pair of RAMs. Until last week I was still using 4GB DDR3 RAMs on my PC. &lt;br&gt;
+Added an extra 8GB DDR3 and at least I can say know that I’m up to date with  most enthusiasts. Somewhat.&lt;/p&gt;
+
+&lt;p&gt;The new SSD is because I wanted to start from scratch, I bought a copy of Windows 8.1 Pro and I upgraded from Windows 7 32 bit to Windows 8.1 64bit. &lt;/p&gt;
+
+&lt;p&gt;The process of reinstalling certain apps due to the 64 bit compatibility wasn’t that tedious as most of the apps I use are portable.&lt;/p&gt;
+
+&lt;p&gt;I’m finding Windows 8.1 to be quite nice, the Metro UI I can understand why some people love it and why most people hate it. &lt;/p&gt;
+
+&lt;p&gt;I’m more of a traditionalist when it comes to desktop PCs, so I installed ClassicShell which returned the start menu in all it’s glory.&lt;/p&gt;
+
+&lt;p&gt;It’s not much of an upgrade, but with the extra juice and faster read speeds, I’ll find a way to push it somehow, albeit with games or 3D Modeling which I”m slowly getting into as a hobby right now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/photo.jpg" alt="MOI HUMBLE RIG"&gt;
+&lt;em&gt;Moi Rig&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title>FOR THE LOVE OF THE GAME: SKYRIM</title><description>&lt;h3 id="backstory"&gt;BACKSTORY&lt;/h3&gt;
+
+&lt;p&gt;As I’ve mentioned a few times already, I more or less fill my spare time with the playing of games. I’ve been doing so since I got a taste of it first on the Gameboy and later Atari 2600. &lt;/p&gt;
+
+&lt;p&gt;That later transitioned to mostly PC gaming, where&lt;/p&gt;</description><link>http://localhost:2368/for-the-love-of-the-game-skyrim/</link><guid isPermaLink="false">3f260063-b52e-4991-865a-64bb429d9537</guid><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Sat, 02 Nov 2013 10:38:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/skyrim.png" medium="image"/><content:encoded>&lt;h3 id="backstory"&gt;BACKSTORY&lt;/h3&gt;
+
+&lt;img src="http://localhost:2368/content/images/2016/06/skyrim.png" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;&lt;p&gt;As I’ve mentioned a few times already, I more or less fill my spare time with the playing of games. I’ve been doing so since I got a taste of it first on the Gameboy and later Atari 2600. &lt;/p&gt;
+
+&lt;p&gt;That later transitioned to mostly PC gaming, where I spend most of my times these days. I’m sure all gamers have their favourite games series and ones that they will always give a go regardless if it gets mediocre or bad reviews. &lt;/p&gt;
+
+&lt;p&gt;For me, the game that I’ve always been an avid fan of is the Elder Scroll series. Before the Cybercafe boom spawned my interest in FPS games I remember first playing The Elderscrolls Daggerfall on my friend’s PC. &lt;/p&gt;
+
+&lt;p&gt;It was love at first sight and it has continued up to this day, and I can say that I haven’t missed a game in the series apart from the spin-offs like TES: Redguard and Battlespire. Fast forward to the present, I’m still spending hours playing and modding the latest iteration which is Skyrim.&lt;/p&gt;
+
+&lt;p&gt;The thing that struck me about Skyrim is the vast community that obviously was well established during the Morrowind era, where now you can think, “Gee, I wish they made this Steel Armor [insert color here] instead”. &lt;/p&gt;
+
+&lt;p&gt;Lo and behold, with the modding tools released and also the large amount of modders active means you’ll most likely get what you want. Anyways, after months of modding and changing textures and modifying lighting and etc I finally settled in on my current Skyrim setup. &lt;/p&gt;
+
+&lt;p&gt;I won’t mention the mods used here to achieve this look because it’s a long list that would make your eyes bleed. I’ve included shots below of areas in Tamriel to let you guys in on what I’m talking about.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/2014-03-07_00002.jpg" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;
+&lt;em&gt;Whiterun outskirts&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/2014-04-25_00002-1.jpg" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;
+&lt;em&gt;Another case of wood mist&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/2014-04-25_00001-1.jpg" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;
+&lt;em&gt;No sunglasses in Skyrim&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/2014-04-04_00004-1.jpg" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;
+&lt;em&gt;Let's go fishing&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/2014-03-07_00008.jpg" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;
+&lt;em&gt;Whiterun center&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/2014-03-07_00005.jpg" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;
+&lt;em&gt;River&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/2014-03-07_00003.jpg" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;
+&lt;em&gt;Forest mist&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/2014-03-07_00002-1.jpg" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;
+&lt;em&gt;Sun rises at Whiterun&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/2014-03-07_00007.jpg" alt="FOR THE LOVE OF THE GAME: SKYRIM"&gt;
+&lt;em&gt;Dragonsreach&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id="happygamingall"&gt;Happy gaming all!&lt;/h4&gt;</content:encoded></item><item><title>LEARNED AND KNOWLEDGED</title><description>&lt;p&gt;Well, life is a bit busy these days with my constant head banging up against the wall. I’m saying this literally of course, my current job involves me in having to learn new stuff and implement that knowledge quickly into practice. Working as web developer is tedious enough now&lt;/p&gt;</description><link>http://localhost:2368/learned-and-knowledged/</link><guid isPermaLink="false">bb0bb897-b87a-448b-a7a4-7ef039edfddc</guid><category>Rants</category><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Sat, 02 Nov 2013 10:36:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/xcode.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/xcode.png" alt="LEARNED AND KNOWLEDGED"&gt;&lt;p&gt;Well, life is a bit busy these days with my constant head banging up against the wall. I’m saying this literally of course, my current job involves me in having to learn new stuff and implement that knowledge quickly into practice. Working as web developer is tedious enough now that I’m getting to grips with it.&lt;/p&gt;
+
+&lt;p&gt;To be absolutely frank, it’s not that hard but the whole process can be exhausting. It’s basically coding/implementing something and then testing it to see if it outputs what you want. Not too complicated, although I am now required to be make the transition to mobile development, and to be frank I don’t have prior experience in making apps. Its something I always wanted to learn but in a more controlled and relaxed manner.&lt;/p&gt;
+
+&lt;p&gt;Making apps for smartphones in theory doesn’t sound complicated as it is quite similar to building sites. For example, I put a button here, it triggers an event or action, I swipe screen it should carry the same action as flipping the page using a button. &lt;/p&gt;
+
+&lt;p&gt;Sounds simple right? The hardest part of the transition to mobile app is debugging, sometimes you get stuck when functions you put here and there end up conjuring numerous compile errors and given that you’re not totally familiar with the whole IDE or it’s language, it can be tough to rectify errors and move forward to implement other requirements.&lt;/p&gt;
+
+&lt;p&gt;I was planning to use this site for musings but now it ends up turning into a virtual rant booth. Forgive me it won’t happen again, I promise. I’ll never rant about work again. ;&lt;/p&gt;</content:encoded></item><item><title>FIRST POST</title><description>&lt;p&gt;Hello all, first post here. Recently bought this domain so I thought I should make good use of it.&lt;/p&gt;
+
+&lt;p&gt;I don’t really make use of blogs or social media like most people do, I like sharing stuff that I think would invoke thought and discussion.&lt;/p&gt;
+
+&lt;p&gt;I also like to&lt;/p&gt;</description><link>http://localhost:2368/first-post/</link><guid isPermaLink="false">69558fe8-ef87-4d3b-b1ac-c0ac9d875f5b</guid><category>News</category><dc:creator>Zaki Hanafiah</dc:creator><pubDate>Fri, 25 Oct 2013 10:47:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/first.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/first.png" alt="FIRST POST"&gt;&lt;p&gt;Hello all, first post here. Recently bought this domain so I thought I should make good use of it.&lt;/p&gt;
+
+&lt;p&gt;I don’t really make use of blogs or social media like most people do, I like sharing stuff that I think would invoke thought and discussion.&lt;/p&gt;
+
+&lt;p&gt;I also like to share experiences or things that can be considered helpful to others in general. Be it about the stuff I’m learning, stuff I’m working on or just random hobbies I usually take up once in a while.&lt;/p&gt;
+
+&lt;p&gt;Most of the stuff you’ll see on this page would be tech oriented, so excuse the amount of jargon if you spot any. Hope that readers (if any) enjoy and find something they like from my musings.&lt;/p&gt;</content:encoded></item></channel></rss></html>

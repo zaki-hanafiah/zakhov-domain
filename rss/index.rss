@@ -1,4 +1,5 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Zakhov's Domain</title><description>Where Insanity Meets Fun</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 12 Oct 2023 13:55:15 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>A NEW JOURNEY BEGINS...</title><description>&lt;p&gt;Hiya! First post after a long hiatus...&lt;/p&gt;
+<!DOCTYPE html>
+<html><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Zakhov's Domain</title><description>Where Insanity Meets Fun</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 12 Oct 2023 15:23:18 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>A NEW JOURNEY BEGINS...</title><description>&lt;p&gt;Hiya! First post after a long hiatus...&lt;/p&gt;
 
 &lt;p&gt;Recently I was surveying my options for a possible change of hosting. Then I figured, why not make the move to VPS (Virtual Private Server)? &lt;/p&gt;
 
@@ -315,4 +316,4 @@ Added an extra 8GB DDR3 and at least I can say know that I’m up to date with  
 
 &lt;p&gt;I also like to share experiences or things that can be considered helpful to others in general. Be it about the stuff I’m learning, stuff I’m working on or just random hobbies I usually take up once in a while.&lt;/p&gt;
 
-&lt;p&gt;Most of the stuff you’ll see on this page would be tech oriented, so excuse the amount of jargon if you spot any. Hope that readers (if any) enjoy and find something they like from my musings.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Most of the stuff you’ll see on this page would be tech oriented, so excuse the amount of jargon if you spot any. Hope that readers (if any) enjoy and find something they like from my musings.&lt;/p&gt;</content:encoded></item></channel></rss></html>
