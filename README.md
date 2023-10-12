@@ -1,10 +1,10 @@
-Ghost 0.8.0 Blogging site with static generator
+# Ghost 0.8.0 Blogging site with static generator
 
-# Quick Start Install
+Quick Start Install
 
-<a name="getting-started"></a>
-# Install [Python 2.7](https://www.python.org/download/releases/2.7/)
-# Install [Buster](https://github.com/axitkhurana/buster)
+<a name="getting-started">Dependencies</a>
+- Install [Python 2.7](https://www.python.org/download/releases/2.7/)
+- Install [Buster](https://github.com/axitkhurana/buster)
 
 
 Install Node.js via NVM.
