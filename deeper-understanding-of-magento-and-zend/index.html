@@ -1,0 +1,207 @@
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<title>DEEPER UNDERSTANDING OF MAGENTO AND ZEND</title>
+	<meta name="description" content="">
+
+	<meta name="HandheldFriendly" content="True">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="../assets/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=2b418d4fc4">
+	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=2b418d4fc4">
+	<link rel="stylesheet" type="text/css" href="../assets/css/grid12.css?v=2b418d4fc4">
+	<link rel="stylesheet" type="text/css" href="../assets/css/featherlight.min.css?v=2b418d4fc4">
+	<link rel="canonical" href="index.html">
+    <meta name="referrer" content="origin">
+    
+    <meta property="og:site_name" content="Zakhov's Domain">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="DEEPER UNDERSTANDING OF MAGENTO AND ZEND">
+    <meta property="og:description" content="I recently stumbled across an article on the web regarding Magento and the supposed relation it has with Zend. WebGuys: Magento is not a Zend Framework The author of the article mentioned that he was asked in a job interview “What do you know about Magento?” and he answered “Magento">
+    <meta property="og:url" content="http://localhost:2368/deeper-understanding-of-magento-and-zend/">
+    <meta property="og:image" content="http://localhost:2368/content/images/2016/06/zendgento.png">
+    <meta property="article:published_time" content="2013-12-20T10:27:00.000Z">
+    <meta property="article:modified_time" content="2016-06-07T15:26:19.968Z">
+    <meta property="article:tag" content="Web Programming">
+    
+    <meta property="article:publisher" content="https://www.facebook.com/zakhov.vladimir">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="DEEPER UNDERSTANDING OF MAGENTO AND ZEND">
+    <meta name="twitter:description" content="I recently stumbled across an article on the web regarding Magento and the supposed relation it has with Zend. WebGuys: Magento is not a Zend Framework The author of the article mentioned that he was asked in a job interview “What do you know about Magento?” and he answered “Magento">
+    <meta name="twitter:url" content="http://localhost:2368/deeper-understanding-of-magento-and-zend/">
+    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2016/06/zendgento.png">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Zaki Hanafiah">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="Web Programming">
+    <meta name="twitter:site" content="@zakhov_vladimir">
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Zakhov&#x27;s Domain",
+        "logo": "http://localhost:2368/content/images/2016/06/zakhov-logo1-2.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Zaki Hanafiah",
+        "image": "//www.gravatar.com/avatar/480ad82ae0490ab5b07ce4a40ce82d74?s=250&d=mm&r=x",
+        "url": "http://localhost:2368/author/zaki/",
+        "sameAs": []
+    },
+    "headline": "DEEPER UNDERSTANDING OF MAGENTO AND ZEND",
+    "url": "http://localhost:2368/deeper-understanding-of-magento-and-zend/",
+    "datePublished": "2013-12-20T10:27:00.000Z",
+    "dateModified": "2016-06-07T15:26:19.968Z",
+    "image": "http://localhost:2368/content/images/2016/06/zendgento.png",
+    "keywords": "Web Programming",
+    "description": "I recently stumbled across an article on the web regarding Magento and the supposed relation it has with Zend. WebGuys: Magento is not a Zend Framework The author of the article mentioned that he was asked in a job interview “What do you know about Magento?” and he answered “Magento"
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.8">
+    <link rel="alternate" type="application/rss+xml" title="Zakhov's Domain" href="../rss/index.rss">
+</head>
+<body class="post-template tag-web-programming">
+	<section id="wrapper">
+		<div id="ajax-container">
+			<nav id="nav" class="nav">
+				<div class="nav-logo">
+					<a href="../">
+						<img src="../content/images/2016/06/zakhov-logo1-2.png" alt="Logo">
+						
+					</a>
+				</div>
+				<div class="nav-menu">
+					<a class="rss" href="../rss/index.rss"><i class="icon-rss"></i></a>
+					<a class="menu" data-action="menu" data-target="menu"><i class="icon-menu"></i></a>
+				</div>
+			</nav>
+			
+
+<main class="content" role="main">
+	<article class="post tag-web-programming">
+		<div class="inner">
+
+			<div id="push">
+
+			<header class="post-header">
+				<span class="post-meta">
+					<span class="post-author"><a href="../author/zaki/">Zaki Hanafiah</a></span> | <span class="post-date">20 Dec 2013 <span class="post-reading-time">| <span class="estimated-reading-time"></span> (<span class="word-count"></span> words)</span></span>
+				</span>
+				<div class="clear"></div>
+				<h1 class="post-title">DEEPER UNDERSTANDING OF MAGENTO AND ZEND</h1>
+			</header>
+		
+			<section class="post-content">
+				<p>I recently stumbled across an article on the web regarding Magento and the supposed relation it has with Zend.</p>
+
+<p><a href="http://www.webguys.de/magento/tuerchen-16-magento-is-not-zend-framework/">WebGuys: Magento is not a Zend Framework</a></p>
+
+<p>The author of the article mentioned that he was asked in a job interview “What do you know about Magento?” and he answered “Magento is an open source e-commerce platform based on Zend Framework.” Wrong answer, he says.</p>
+
+<p>After reading, it made me think, I’m not well versed with Zend as of now. But based on what I read on Magento’s portal it explains that “Magento is a content management system(CMS)  based on PHP and mySQL for web hosting service, which was built using parts of the Zend Framework“.</p>
+
+<p>I have to admit I probably would’ve given the same answer(or maybe another deviation that I usually cook up) and end up red faced.</p>
+
+<p>Take note from now on, Zend Framework is basically a library of classes which enables developers to create high load applications. Although structure-wise similar to Zend, Magento is a complete application that consists of a great number of strongly interconnected core extensions. Read the article linked above for a more in-depth explanation.</p>
+
+<p>But to sum it up, Magento is not a Zend application, but it was built using Zend Framework components. Of course, if you’re familiar with one or the other it doesn’t hurt to know this small yet important tidbit.</p>
+			</section>
+			
+			<footer class="post-footer">
+				<div class="post-tags">
+					<a href="../tag/web-programming/">Web Programming</a>
+				</div>
+				<div class="post-share">
+					<a class="icon-twitter" href="https://twitter.com/share?text=DEEPER%20UNDERSTANDING%20OF%20MAGENTO%20AND%20ZEND&amp;url=http://localhost:2368/deeper-understanding-of-magento-and-zend/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+						<span>Twitter</span>
+					</a>
+					<a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/deeper-understanding-of-magento-and-zend/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+						<span>Facebook</span>
+					</a>
+					<a class="icon-gplus" href="https://plus.google.com/share?url=http://localhost:2368/deeper-understanding-of-magento-and-zend/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+						<span>Google+</span>
+					</a>
+				</div>
+			</footer>
+			
+			<aside class="post-comments">
+				<div id="disqus_thread"></div>
+			</aside>
+			
+			</div>
+			
+			<nav class="post-nav">
+					<a class="post-nav-item post-nav-next" href="../expected-web-designs-in-2014/">
+						<section class="post-nav-teaser">
+							<span class="post-nav-icon"><i class="icon-arrow-left"></i></span>
+							<span class="post-nav-info">
+								<h4 class="post-nav-title">EXPECTED WEB DESIGNS IN 2014</h4>
+								<p class="post-nav-excerpt">Just finished going through an article at thenextweb.com about designs we’…</p>
+							</span>
+						</section>
+					</a>
+					<a class="post-nav-item post-nav-prev" href="../moi-humble-rig/">
+						<section class="post-nav-teaser">
+							<span class="post-nav-icon"><i class="icon-arrow-right"></i></span>
+							<span class="post-nav-info">
+								<h4 class="post-nav-title">MOI HUMBLE RIG</h4>
+								<p class="post-nav-excerpt">I recently upgraded my PC with another SSD and a pair of…</p>
+							</span>
+						</section>
+					</a>
+				<div class="clear"></div>
+			</nav>
+
+		</div>
+	</article>
+</main>
+	
+			<div id="body-class" style="display: none;" class="post-template tag-web-programming"></div>
+			<footer id="footer">
+				<section class="credits">
+					<span class="credits-theme">All Rights Reserved 2023</span>
+					<span class="credits-software">Running on <a href="https://nodejs.org/en/" target="_blank" rel="nofollow">Node.js</a></span>
+				</section>
+			</footer>
+			<div id="menu" data-target="menu">
+	<div class="menu-header">
+		<span class="menu-label">Menu</span>
+		<a class="menu-close" data-action="menu" data-target="menu"></a>
+	</div>
+	<ul class="menu-list">
+		<li class="menu-list-item">
+			<a class="home" href="http://zakhov.com">Home</a>
+		</li>
+		<li class="menu-list-item">
+			<a class="portfolio" href="http://zakhov.com/portfolio/">Portfolio</a>
+		</li>
+		<li class="menu-list-item">
+			<a class="about" href="http://zakhov.com/about/">About</a>
+		</li>
+		<li class="menu-list-item">
+			<a class="quid-velim" href="http://zakhov.com/quid-velim/">Quid Velim</a>
+		</li>
+	</ul>
+</div>
+<div class="overlay"></div>
+		</div>
+	</section>
+	
+	
+	<script type="text/javascript" src="../assets/js/dependencies.js?v=2b418d4fc4"></script>
+	<script type="text/javascript" src="../assets/js/script.js?v=2b418d4fc4"></script>
+	<script type="text/javascript" src="../assets/js/featherlight.min.js?v=2b418d4fc4"></script>
+	<script type="text/javascript">  
+  if (typeof jQuery == 'undefined') {
+    document.write('<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.1.min.js"></'+'script>');
+  }
+</script>
+
+</body>
