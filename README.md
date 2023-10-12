@@ -4,7 +4,7 @@ Quick Start Install
 
 <a name="getting-started">Dependencies</a>
 - Install [Python 2.7](https://www.python.org/download/releases/2.7/)
-- Install [Buster](https://github.com/axitkhurana/buster)
+- Install [Buster](https://github.com/Misiur/buster)
 
 
 Install Node.js via NVM.
