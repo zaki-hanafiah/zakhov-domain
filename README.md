@@ -1,4 +1,4 @@
-# Ghost 0.8.0 Blogging site with static generator
+# Ghost 0.11.0 Blogging site with static generator
 
 Quick Start Install
 
@@ -19,29 +19,25 @@ Use Node v0.10.48 since this is an older version of Ghost (We only need to run i
 Clone :ghost:
 
 ```bash
-git clone git://github.com/tryghost/ghost.git
+git clone https://github.com/TryGhost/Ghost/tree/0.11
 cd ghost
 ```
 
-Install grunt. No prizes here.
+Install grunt
 
 ```bash
-npm install -g grunt-cli
+npm install -g grunt-cli@1.0.1
 ```
-
-Install Ghost. If you're running locally, use [master](https://github.com/TryGhost/Ghost/tree/master). For production, use [stable](https://github.com/TryGhost/Ghost/tree/stable). :no_entry_sign::rocket::microscope:
 
 ```bash
 npm install
 ```
 
-Build the things!
+Building the site
 
 ```bash
 grunt init
 ```
-
-Minify that shit for production?
 
 ```bash
 grunt prod
@@ -80,6 +76,6 @@ buster deploy
 ```
 
 
-# Copyright & License for Ghost 0.8.0
+# Copyright & License for Ghost 0.11.0
 
 Copyright (c) 2013-2016 Ghost Foundation - Released under the [MIT license](LICENSE).
