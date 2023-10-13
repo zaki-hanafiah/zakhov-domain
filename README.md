@@ -82,6 +82,9 @@ buster deploy
 
 ## To add a CNAME and point to your own domain, run the command below
 buster add-domain YOURDOMAIN.com
+## then do another deploy
+buster deploy
+
 ## You will need to create a CNAME record (from your registrar) to point your domain to your gh-pages domain, e.g -- USERNAME.github.io
 ```
 
