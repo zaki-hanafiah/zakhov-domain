@@ -9,8 +9,11 @@ Quick Start Install
 
 Install Node.js via NVM.
 
+Use Node v0.10.48 since this is an older version of Ghost (We only need to run it locally for CMS usage)
 ```bash
-# Use Node v0.10.48
+# curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+# nvm install 0.10.48
+# nvm use 0.10.48
 ```
 
 Clone :ghost:
