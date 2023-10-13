@@ -29,6 +29,8 @@ Install grunt
 npm install -g grunt-cli@1.0.1
 ```
 
+Install project dependencies
+
 ```bash
 npm install
 ```
